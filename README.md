@@ -1,4 +1,4 @@
-# Predict_survival
+# predict_survival
 
 The data has been split into two groups:
 
